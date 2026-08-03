@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>File Kafka sebagai Consumer</description>
+   <name>TC_Kafka_Consumer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff578015-63ab-4f68-87cf-46f5e34d5ad6</testCaseGuid>
+</TestCaseEntity>

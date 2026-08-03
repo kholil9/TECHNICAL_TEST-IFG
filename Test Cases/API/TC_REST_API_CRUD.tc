@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case untuk menguji Rest API, untuk kebutuhan Technical Test IFG Company</description>
+   <name>TC_REST_API_CRUD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f180bd05-af34-49d2-97d0-a7c74c14a3f6</testCaseGuid>
+</TestCaseEntity>
